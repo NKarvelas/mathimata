@@ -10,7 +10,7 @@ namespace Mathima
     {
         static void Main(string[] args)
         {
-            Person arithmitiki,apo1;
+            Person arithmitiki;
             arithmitiki = new Person();
 
             float apotelesma = arithmitiki.prosthesi(2, 5);
